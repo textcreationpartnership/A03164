@@ -32,9 +32,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Body#####
-A most excellent new ballad, of an olde man and his wife which in their olde age and misery sought t
+
+1. A moſt excellent new Ballad, of an olde man and his wife, which in their olde age and miſery ſought to their owne children for ſuccour, by whom they were diſdained & ſcornfully ſent away ſuccourleſſe, and how the vengeance of God was iuſtly ſhewed vpon them for the ſame.
+
 #####Back#####
-A most excellent new ballad, of an olde man and his wife which in their olde age and misery sought t
+At London printed for W. B.
 **Types of content**
 
   * There are 116 **verse** lines!
